@@ -1,4 +1,4 @@
-//Program to implement SCAN disk scheduling
+//Program to implement CSCAN disk scheduling
 //Author: Nandagopal
 
 #include<stdio.h>
